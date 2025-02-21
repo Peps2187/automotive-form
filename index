@@ -1,0 +1,7 @@
+git clone https://github.com/peps2187/automotive-form.git
+cd automotive-form
+mv carpeta/index.html .
+mv carpeta/style.css .
+git add .
+git commit -m "Moved files to root"
+git push origin main
